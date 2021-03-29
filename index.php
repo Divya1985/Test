@@ -9,8 +9,16 @@
 <body>
     <table>
         <tr>
-            <td>XXXX</td>
-            <td><button class="btn btn-danger">Submit</button></td>
+            <td>Username</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button class="btn btn-success">Submit</button></td>
         </tr>
     </table>
 </body>
